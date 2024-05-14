@@ -1,0 +1,5 @@
+sudo apt update
+sudo apt install apache2
+sudo systemctl status apache2
+cd /var/www/html
+echo "Hello I'm VM1" > index.html
