@@ -1,0 +1,8 @@
+**Additional Considerations**
+
+Private Link: For more secure access, consider using Azure Private Link to connect your Application Gateway to the backend VMs privately.
+
+Monitoring and Logging: Enable logging and monitoring for the Application Gateway to track the performance and troubleshoot any issues.
+
+Autoscaling: Configure autoscaling for both the Application Gateway and VMs if needed to handle varying loads.
+
