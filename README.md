@@ -47,3 +47,6 @@ Backend Pools: Contains the backend servers that serve the requests.
 
 Routing Rules: Defines how traffic should be routed based on the rules set (e.g., URL-based routing).
 
+![image](https://github.com/saicharanakula/Project1/assets/42805601/889ced3d-e944-4526-a972-adfb46efa9f4)
+
+
